@@ -1,0 +1,10 @@
+The module "documentation" takes as argument the name of a module and returns module's manual.
+A manual is represented by a string containing all the information needed to use it properly.
+
+This module is best used with an output module, since returning something won't actually show something.
+
+Example
+
+show documentation documentation
+show documentation run
+find_str test in all documentation then show

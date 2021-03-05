@@ -1,0 +1,18 @@
+open --path
+run --command|scriptrun
+point --path
+new --name
+explorer_tracker
+find
+workspace
+log
+show
+documentation
+sdkdoc
+input
+edit
+treestamp
+git
+powershell
+rubberduck
+rubberduck
